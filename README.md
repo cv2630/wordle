@@ -8,10 +8,7 @@ The motivation for this project is to allow for infinite Wordles to be played, w
 [add later]
 
 ## Structure
-This service is hosted via HTML and []. [].
 [add later]
 
 ## Future Work
-- Potentially add multi-letter Wordles (6, 7, etc.)
-- Wordles for non-English words
-- [add later]
+[add later]
